@@ -1,0 +1,176 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Salón acondicionado para eventos de noche",
+            "price": 14000,
+            "image": "https://th.bing.com/th/id/R.fc10ee562beedef4fd4e3de9286d7fd4?rik=gnE6FU%2bZudtuLw&riu=http%3a%2f%2fwww.cotillonfiesta.com.ar%2fimages%2fgalerias%2flivings_y_mobiliarios_276.jpg&ehk=3Q5TgxeUYkbNJ%2f8kOsCkysE7zy5cmxnUEZMDilEZUYI%3d&risl=&pid=ImgRaw&r=0",
+            "category": "acondicionados"
+        },
+        {
+            "id": 2,
+            "title": "Salón sencillas para bodas",
+            "price": 8000,
+            "image": "https://lirp.cdn-website.com/fb9a9167/dms3rep/multi/opt/purple-balloon-1920w.jpg",
+            "category": "sencillas"
+        },
+        {
+            "id": 3,
+            "title": "Salón para bodas con todos los servicios",
+            "price": 25000,
+            "image": "https://th.bing.com/th/id/OIP.G6PjxJq66djBQtwWtgr6nwHaE7?pid=ImgDet&rs=1",
+            "category": "conservicios"
+        },
+        {
+            "id": 4,
+            "title": "Salón de fiestas para niños",
+            "price": 19900,
+            "image": "https://th.bing.com/th/id/R.27626fdf693c1c6b71d2c11e767c30bd?rik=%2balcSd5OO%2b76Jw&pid=ImgRaw&r=0",
+            "category": "muebelesmanteleria"
+        },
+        {
+            "id": 5,
+            "title": "Salón de fiestas equipadas",
+            "price": 19500,
+            "image": "https://th.bing.com/th/id/R.95722dc9d5fbf9238e9b5276429858ee?rik=3nNpdYjTObRKEQ&riu=http%3a%2f%2fimagenes.lacelebracion.com%2fTemas+varios+2%2fDecoracion%2fManteleria+en+spandex+21.jpg&ehk=wkt9L%2bkuTWWLt35JyNMlE8%2fFqbHeYQhyMjGcBbLDwrM%3d&risl=&pid=ImgRaw&r=0",
+            "category": "moviliarios"
+
+        },
+        {
+            "id": 6,
+            "title": "Botargas de LadyBug",
+            "price": 5500,
+            "image": "https://tudodefestaoficial.com/guia/wp-content/uploads/2020/02/117334462_2763210697296833_1202593343971279680_o.jpg",
+            "category": "botargas"
+
+        },
+        {
+            "id": 7,
+            "title": "Salón de fiestas acondicionados sin moviliarios",
+            "price": 6000,
+            "image": "https://live.staticflickr.com/5072/14147156983_74070a62c2_b.jpg",
+            "category": "acondicionados"
+        },
+        {
+            "id": 8,
+            "title": "Salón de fiesta sencillas sin moviliarios",
+            "price": 5500,
+            "image": "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s3704bac5e3f1c4f6/image/ic3477d8a560d9c57/version/1538679572/image.jpg",
+            "category": "sencillas"
+        },
+        {
+            "id": 9,
+            "title": "Salón de fiestas con servicios y banquetes",
+            "price": 29000,
+            "image": "https://th.bing.com/th/id/OIP.ND4gyJk-cj1HGF0FzsPffgHaEo?pid=ImgDet&w=640&h=400&rs=1",
+            "category": "conservicios"
+        },
+        {
+            "id": 10,
+            "title": "Salón de fiestas de niños con muebles",
+            "price": 15100,
+            "image": "https://i.pinimg.com/474x/6a/10/62/6a10629988ee41b2b5534efa209b2dbb.jpg",
+            "category": "mueblesmanteleria"
+        },
+        {
+            "id": 11,
+            "title": "Salón de fiestas para bodas",
+            "price": 20500,
+            "image": "https://cdn0.bodas.com.mx/emp/fotos/6/2/9/3/1508537878.jpg",
+            "category": "moviliarios"
+        },
+        {
+            "id": 12,
+            "title": "Botarga de Sonic",
+            "price": 5000,
+            "image": "https://th.bing.com/th/id/OIP.zHeRY_8LjrVPaGxxe9dQEgHaJ4?pid=ImgDet&rs=1",
+            "category": "botargas"
+        },
+        {
+            "id": 13,
+            "title": "Salón de fiestas sin muebles y acondicionado",
+            "price": 10100,
+            "image": "https://www.tanzen-albrecht.de/assets/images/f/dsc_0005_20150122_1809356621-0dffe10f.jpg",
+            "category": "acondicionados"
+        },
+        {
+            "id": 14,
+            "title": "Salón de fiestas con muebles sin manteles",
+            "price": 14400,
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/a9/da/0c/photo2jpg.jpg",
+            "category": "sencillas"
+        },
+        {
+            "id": 15,
+            "title": "Salón de fiestas con banquetes y muebles",
+            "price": 24000,
+            "image": "https://media.abcsalles.com/images/1/salles/900h/8679/chateau-urbilhac-4.jpg",
+            "category": "conservicios"
+        },
+        {
+            "id": 16,
+            "title": "Salón de fiestas para niños, incluye juegos",
+            "price": 18900,
+            "image": "https://th.bing.com/th/id/OIP.9Bw0C6-HXsuXwDHuwJd9RAHaLH?pid=ImgDet&w=622&h=933&rs=1",
+            "category": "muebelesmanteleria"
+        },
+        {
+            "id": 17,
+            "title": "Salón de fiestas para bodas con muebles clásicas",
+            "price": 17500,
+            "image": "https://static.showit.co/800/4PMRDG_MRdytVejp7nPCeA/64329/emilydylan-488.jpg",
+            "category": "moviliarios"
+
+        },
+        {
+            "id": 18,
+            "title": "Botargas de Wennie Poo",
+            "price": 6500,
+            "image": "https://ehimeossanpo.com/wp-content/uploads/2021/03/F7E4EE09-BCD6-4976-A5D9-92518C7FC694-scaled.jpeg",
+            "category": "botargas"
+
+        },
+        {
+            "id": 19,
+            "title": "Salón de fiestas o bailes",
+            "price": 8500,
+            "image": "https://img.zaalhuren.net/cache/hero_home_xs/dansstudio-residance-dorany.jpeg",
+            "category": "acondicionados"
+        },
+        {
+            "id": 20,
+            "title": "Salón de fiestas al aire libre",
+            "price": 18500,
+            "image": "https://www.fiestaschannel.com/img/proveedores/DolceEventi/thumbnail//2736bfd4b4fdbe2c7aaca3544bf76892.jpg",
+            "category": "sencillas"
+        },
+        {
+            "id": 21,
+            "title": "Salón de fiestas, banquetes y muebles con mateleria",
+            "price": 30000,
+            "image": "https://cdn0.bodas.com.mx/vendor/5657/3_2/640/jpg/5edb90b5-d625-4743-9f84-b9c8abb912b1_5_165657-158265636046426.jpeg",
+            "category": "conservicios"
+        },
+        {
+            "id": 22,
+            "title": "Salón de fiestas para niños con muebles sin manteleria",
+            "price": 19000,
+            "image": "https://content.4ty.gr/merchants/photos/2018/02/56527-PAIDOTOPOI-DASOYPOLI---PAIDOTOPOS---PAIDIKA-PARTY---PARTY-GENETHLION---HAiDARI-05.jpg",
+            "category": "muebelesmanteleria"
+        },
+        {
+            "id": 23,
+            "title": "Salón para bodas con decoraciones de mesas",
+            "price": 25000,
+            "image": "https://th.bing.com/th/id/R.60b58e0ae03f5d434f2eff5a1da46d62?rik=OqnT8tpwN7G%2bpg&riu=http%3a%2f%2fs5.weddbook.me%2ft1%2f9%2f0%2f2%2f902805%2fwedding-flowers.jpg&ehk=cYIVbCeOMF9xAVoaMsLD61xIAeGQTjB5E%2fgqNMuV%2fo4%3d&risl=&pid=ImgRaw&r=0",
+            "category": "moviliarios"
+        },
+        {
+            "id": 24,
+            "title": "Botargas de Mickey y Minnie",
+            "price": 8500,
+            "image": "https://th.bing.com/th/id/R.0007497fb9e5f30ba2a83f454a436049?rik=vfblXBdlm%2bTSGg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-Ik74B7bUA6c%2fTkK1yMo4ajI%2fAAAAAAAAAGk%2fYY9t4OGuY6Y%2fw1200-h630-p-k-no-nu%2fKGrHqEOKiME1zS1WeQFBNnTusg3Gg0_12.JPG&ehk=Q9WideK1fTOQnkdfBtF3P%2fGO91uKpWjUqHoxgupj14E%3d&risl=&pid=ImgRaw&r=0",
+            "category": "botargas"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jennifer-Salones de fiestas</title>
+
+    <!--Google fonts-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!--Box icons-->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css"
+    />
+
+    <link rel="stylesheet" href="css/clientes.css" />
+  </head>
+  <body>
+    <!--Navegation-->
+    <nav class="nav">
+      <div class="nav__center container">
+        <div class="nav__logo">
+					<h1>Jenni-fer</h1>
+				</div>
+				<ul class="nav__list">
+					<div class="carrito__icon">
+						<i class="bx bx-cart"></i>
+						<span class="item__total">0</span>
+					</div>
+				</ul>
+      </div>
+    </nav>
+
+    <!--Filter-->
+    <section class="filter">
+      <div class="grid">
+        <div class="div">
+          <label for="buscar"><span><i class="bx bx-search"></i></span></label>
+          <input type="text" id="buscar" placeholder="Buscar...">
+        </div>
+        <div class="category">
+          <select id="category" onclick="categoryValue()">
+            <option value="">Todos</option>
+            <option value="acondicionados">Salones acondicionados</option>
+            <option value="sencillas">Salones sencillas</option>
+            <option value="conservicios">Salones con todos los servicios</option>
+            <option value="mueblesmanteleria">Salones para niños</option>
+            <option value="moviliarios">Moviliarios con manteleria</option>
+            <option value="botargas">Botargas</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <!--Productos-->
+    <section class="productos">
+      <div class="productos__center">
+        <div class="producto">
+          <div class="image__container">
+            <img src="https://th.bing.com/th/id/R.d7489a7262c41f70d4f872eccb61ade1?rik=5EpB4XKyEVUpgw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-rd0hVgz_s6o%2fVBHkWYGN6vI%2fAAAAAAAAC_4%2fShmWntmZJs4%2fw1200-h630-p-k-no-nu%2fLa-vie-en-rose-design-green-flower-white-furniture-rental-the-knot-wedding-magazine-event-tampa.jpg&ehk=uIatHA31PZDBc6DoU4LEPXk0Wu6qqBOI%2fABvsmjHbfU%3d&risl=&pid=ImgRaw&r=0" alt="">
+          </div>
+          <div class="producto__footer">
+            <h1>Jennifer-Salones de fiestas</h1>
+            <div class="rating">
+              <span>
+                <i class="bx bxs-star"></i>
+              </span>
+              <span>
+                <i class="bx bxs-star"></i>
+              </span>
+              <span>
+                <i class="bx bxs-star"></i>
+              </span>
+              <span>
+                <i class="bx bxs-star"></i>
+              </span>
+              <span>
+                <i class="bx bx-star"></i>
+              </span>
+            </div>
+            <div class="price">$5000.00</div>
+          </div>
+          <div class="bottom">
+            <div class="btn__group">
+              <a href="#" class="btn addToCart">Añadir carrito</a>
+              <a href="producto-detalles.html" class="btn view">Vista</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--Carrito-->
+    
+    <section class="carrito__overlay">
+      <div class="carrito">
+        <span class="close__carrito">
+          <i class="bx bx-x"></i>
+        </span>
+        <h1>Su Carrito</h1>
+
+        <div class="carrito__center">
+
+        <div class="carrito__item">
+            <img src="https://th.bing.com/th/id/OIP.soSchrck8NvOBeP6EiU-kAHaEK?pid=ImgDet&w=710&h=399&rs=1" alt="salones">
+            <div>
+              <h3>Jennifer-Salones de fiestas</h3>
+              <p class="price">$5000.00</p>
+            </div>
+            <div>
+              <span>
+                <i class="bx bxs-up-arrow"></i>
+              </span>
+              <p>1</p>
+              <span>
+                <i class="bx bxs-down-arrow"></i>
+              </span>
+            </div>
+            <div>
+              <span class="remove__item">
+                <i class="bx bx-trash"></i>
+              </span>
+            </div>
+            
+          </div>
+        </div>
+
+        <div class="carrito__footer">
+            <h3>Total: $ <span class="carrito__total">0</span></h3>
+            <button class="clear__carrito btn">remover carrito</button>
+        </div>
+      </div>
+    </section>
+      <!-- Footer -->
+      <footer class="footer">
+        <h3>Copyright & Jennifer</h3>
+      </footer>
+
+    <script src="https://unpkg.com/boxicons@latest/dist/boxicons.js"></script>
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
